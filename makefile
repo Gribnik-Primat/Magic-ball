@@ -16,4 +16,4 @@ build: $(CONN)
 
 clean:
 	rm -f host_*
-	rm -f $(OBJ)
+	rm -f $(OBJ)  
